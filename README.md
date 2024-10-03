@@ -35,8 +35,8 @@
   </a>
   
   
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/devicons@v2.15.1/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+   <a href="https://www.figma.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="figma" width="40" height="40"/>
   </a>
   
   
